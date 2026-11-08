@@ -1,0 +1,12 @@
+## 🖐️ 3D Hand Model Development
+
+The 3D hand models were created using **Blender** to represent American Sign Language (ASL) hand gestures.
+
+The development process involved several stages:
+
+1. **🧊 3D Modelling** – Creating the 3D hand model and shaping its fingers and overall structure.
+
+2. **🦴 Rigging** – Adding a bone structure to allow the hand and fingers to move.
+3. **🎨 Weight Painting** – Defining how the hand mesh responds to the movement of the bones.
+4. **🎬 Animation** – Creating different hand poses and movements to represent ASL alphabets (A–Z) and numbers (1–10).
+5. **🎮 Unity Integration** – Importing the completed 3D hand models and animations into Unity for use in the AR application.
