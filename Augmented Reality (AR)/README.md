@@ -13,7 +13,9 @@ SignLingo AR uses **Marker-Based Augmented Reality** to connect physical flashca
 
 ### ✨ Important AR Features
 
-
+<kbd>
+<img src="https://github.com/syuhada2808/Pictures/blob/dffdfa971850b1939fbc6eb4df5498b7147fc73a/Picture%202.png" width="600">
+</kbd>
 
 - 📱 **Real-Time Detection:** Uses the device camera to detect markers and display 3D models.
 - 🃏 **Marker Recognition:** Recognizes specially designed flashcards.
