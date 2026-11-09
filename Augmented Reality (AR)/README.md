@@ -12,10 +12,14 @@ SignLingo AR uses **Marker-Based Augmented Reality** to connect physical flashca
 | Learning Interaction | Connects physical flashcards with digital 3D content for interactive learning. |
 
 ### ✨ Important AR Features
-
+<p align="center">
 <kbd>
-<img src="https://github.com/syuhada2808/Pictures/blob/dffdfa971850b1939fbc6eb4df5498b7147fc73a/Picture%202.png" width="600">
+<img src="https://github.com/syuhada2808/Pictures/blob/117851a3f7402b0a6257621f4f15f1af816ae0e1/Picture%209.png" height="400">
 </kbd>
+<kbd>
+<img src="https://github.com/syuhada2808/Pictures/blob/117851a3f7402b0a6257621f4f15f1af816ae0e1/Picture%208.jpg" height="400">
+</kbd>
+</p>
 
 - 📱 **Real-Time Detection:** Uses the device camera to detect markers and display 3D models.
 - 🃏 **Marker Recognition:** Recognizes specially designed flashcards.
@@ -23,6 +27,15 @@ SignLingo AR uses **Marker-Based Augmented Reality** to connect physical flashca
 - 🎮 **Interactive Learning:** Allows users to explore sign language through physical cards and digital animations.
 
 ### 💡 Why Marker-Based AR?
+
+<p align="center">
+<kbd>
+<img src="https://github.com/syuhada2808/Pictures/blob/117851a3f7402b0a6257621f4f15f1af816ae0e1/Picture%209.png" height="400">
+</kbd>
+<kbd>
+<img src="https://github.com/syuhada2808/Pictures/blob/117851a3f7402b0a6257621f4f15f1af816ae0e1/Picture%2010.jpg" height="400">
+</kbd>
+</p>
 
 Marker-Based AR was selected because it provides a simple way for users to interact with digital content through physical cards.
 
